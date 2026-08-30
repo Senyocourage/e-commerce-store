@@ -4,13 +4,13 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Aether One — Think in 3D',
-  description: 'Aether One is a spatial computer for the curious.',
+  description: 'Aether One is a spatial computer for the curious. Explore the next dimension of work.',
   generator: 'v0.app',
 }
 
 export const viewport: Viewport = {
-  colorScheme: 'dark',
-  themeColor: '#080a10',
+  colorScheme: 'light',
+  themeColor: '#f7f9fc',
   userScalable: false,
 }
 
