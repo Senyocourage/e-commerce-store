@@ -34,7 +34,7 @@ function Storefront() {
       <div className="content-grid" id="top">
         <section className="hero-panel" aria-labelledby="hero-title">
           <div className="eyebrow"><span className="eyebrow-line" /> New dimension of work</div>
-          <h1 id="hero-title">Think<br /><span>in 3D.</span></h1>
+          <h1 id="hero-title">Welcome<br /><span>to My Store</span></h1>
           <p className="hero-copy">Aether One is a spatial computer for the curious. Move through your ideas, naturally.</p>
           <div className="hero-actions"><a className="primary-button" href="#checkout">Get Aether One <ArrowRight size={17} /></a><a className="text-button" href="#details">Explore the specs <span>↗</span></a></div>
           <div className="hero-footnote"><ShieldCheck size={15} /> 30-day returns <i /> <LockKeyhole size={14} /> Secure checkout</div>
